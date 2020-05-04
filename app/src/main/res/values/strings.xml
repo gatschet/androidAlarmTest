@@ -15,4 +15,6 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 
     <string name="alarm">Alarm</string>
+    <string name="notification_title">alarmTest</string>
+    <string name="cancel_download">cancelAlarmTest</string>
 </resources>
